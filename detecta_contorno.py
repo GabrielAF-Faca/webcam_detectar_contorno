@@ -14,7 +14,6 @@ while True:
 
     image = cv2.drawContours(frame, contours, -1, (0, 255, 0), 2)
 
-    cv2.imshow("gray", gray)
     cv2.imshow("image", image)
     cv2.imshow("binary", binary)
     

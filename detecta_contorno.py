@@ -1,3 +1,4 @@
+#Código de https://github.com/x4nth055/pythoncode-tutorials/tree/master/machine-learning/contour-detection
 import cv2
 
 cap = cv2.VideoCapture(0)
